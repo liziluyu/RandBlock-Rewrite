@@ -1,0 +1,8 @@
+{
+	icon: "ae2:creative_energy_cell"
+	id: "47FA57EF8D9AE96D"
+	loot_size: 1
+	order_index: 6
+	rewards: [ ]
+	title: "{loot_table.7}"
+}

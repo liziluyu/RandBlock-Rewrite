@@ -1,0 +1,16 @@
+// 1.19.2	2024-04-29T00:45:42.8499651	Item Models: mm
+e5d1d2eb12a0303f0863c16d4056832e4b2ea635 assets/mm/models/item/ae2_quartz_creator_controller.json
+12f57178d5569b4133640b7ec752339f0cf0bebc assets/mm/models/item/blueprint.json
+4e3219b1b5d28e81b2648d27f6e7c2d94ab26412 assets/mm/models/item/energy_input_port.json
+c80b2c644f9f163209685fb0e8087841ada96046 assets/mm/models/item/energy_output_port.json
+781cd4ecb35ec99f6717ce1480f0ba6ff8e210e5 assets/mm/models/item/enginmagic_linked_controller.json
+4fcdf9d8070e5388ebb58c0e973079758059ca5c assets/mm/models/item/fluid_input_port.json
+ba3ec9a1c78a846591dcb0c21556115113696653 assets/mm/models/item/fluid_output_port.json
+6afe65d9241731928f623353854ce7c2277210f8 assets/mm/models/item/gaia_crusher_controller.json
+23d8d0fc6ca8c1763437a9ad0050a5a30182b656 assets/mm/models/item/glowstone_machine_controller.json
+d4d9bfcb3d70f57c3a071f59b0d1cd71ab1592ff assets/mm/models/item/gold_rush_controller.json
+3914af7fbdd638b5c8948efe2837d9e2b404f25b assets/mm/models/item/item_input_port.json
+3185aab61dc4a0178a65378fd303e06d1a6c51dc assets/mm/models/item/item_output_port.json
+383e9cf82d0408b46bef653b17b050430a5511e4 assets/mm/models/item/maxwell_thermoelectric_generator_controller.json
+312fe9cfac887c13e50ddd34dd375f7270c57ee4 assets/mm/models/item/structure_wand.json
+8a0344246bf0eb5d26ec99a3ce4a0b2cd408e0a9 assets/mm/models/item/wither_storm_controller.json

@@ -1,0 +1,12 @@
+{
+	icon: "thermal:gold_coin"
+	id: "73AA61C7445058B6"
+	loot_size: 1
+	order_index: 4
+	rewards: [
+		{ item: "thermal:gold_coin", weight: 100.0f }
+		{ count: 8, item: "thermal:gold_coin", weight: 40.0f }
+		{ count: 16, item: "thermal:gold_coin", weight: 5.0f }
+	]
+	title: "{loot_table.5}"
+}

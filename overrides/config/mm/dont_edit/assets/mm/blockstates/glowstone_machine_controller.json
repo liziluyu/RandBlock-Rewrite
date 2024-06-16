@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "mm:block/glowstone_machine_controller",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "mm:block/glowstone_machine_controller"
+    },
+    "facing=south": {
+      "model": "mm:block/glowstone_machine_controller",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "mm:block/glowstone_machine_controller",
+      "y": 270
+    }
+  }
+}

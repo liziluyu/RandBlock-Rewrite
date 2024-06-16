@@ -1,0 +1,8 @@
+{
+	icon: "thermal:netherite_coin"
+	id: "170F125D35691EC6"
+	loot_size: 1
+	order_index: 5
+	rewards: [{ item: "thermal:netherite_coin", weight: 100.0f }]
+	title: "{loot_table.6}"
+}

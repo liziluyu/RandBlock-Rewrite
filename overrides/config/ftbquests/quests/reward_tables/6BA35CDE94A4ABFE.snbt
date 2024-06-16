@@ -1,0 +1,13 @@
+{
+	icon: "thermal:copper_coin"
+	id: "6BA35CDE94A4ABFE"
+	loot_size: 1
+	order_index: 2
+	rewards: [
+		{ item: "thermal:copper_coin", weight: 100.0f }
+		{ count: 8, item: "thermal:copper_coin", weight: 40.0f }
+		{ count: 16, item: "thermal:copper_coin", weight: 5.0f }
+		{ count: 64, item: "thermal:copper_coin", weight: 2.0f }
+	]
+	title: "{loot_table.3}"
+}

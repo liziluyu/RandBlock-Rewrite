@@ -1,0 +1,58 @@
+{
+	icon: "farmersdelight:hamburger"
+	id: "405D79F9679D1C1D"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{ count: 8, item: "farmersdelight:beef_patty" }
+		{ count: 8, item: "farmersdelight:cooked_bacon" }
+		{ count: 8, item: "farmersdelight:cooked_mutton_chops" }
+		{ count: 8, item: "farmersdelight:cooked_cod_slice" }
+		{ count: 8, item: "farmersdelight:cooked_salmon_slice" }
+		{ count: 8, item: "farmersdelight:ham" }
+		{ count: 8, item: "farmersdelight:smoked_ham" }
+		{ count: 8, item: "farmersdelight:cake_slice" }
+		{ count: 8, item: "farmersdelight:apple_pie_slice" }
+		{ count: 8, item: "farmersdelight:sweet_berry_cheesecake_slice" }
+		{ count: 8, item: "farmersdelight:chocolate_pie_slice" }
+		{ count: 8, item: "farmersdelight:sweet_berry_cookie" }
+		{ count: 8, item: "farmersdelight:honey_cookie" }
+		{ count: 8, item: "farmersdelight:melon_popsicle" }
+		{ count: 8, item: "farmersdelight:glow_berry_custard" }
+		{ count: 8, item: "farmersdelight:fruit_salad" }
+		{ count: 8, item: "farmersdelight:barbecue_stick" }
+		{ count: 16, item: "farmersdelight:egg_sandwich" }
+		{ count: 16, item: "farmersdelight:chicken_sandwich" }
+		{ count: 16, item: "farmersdelight:hamburger" }
+		{ count: 16, item: "farmersdelight:bacon_sandwich" }
+		{ count: 16, item: "farmersdelight:mutton_wrap" }
+		{ count: 16, item: "farmersdelight:dumplings" }
+		{ count: 16, item: "farmersdelight:stuffed_potato" }
+		{ count: 16, item: "farmersdelight:salmon_roll" }
+		{ count: 16, item: "farmersdelight:cod_roll" }
+		{ count: 16, item: "farmersdelight:kelp_roll" }
+		{ count: 16, item: "farmersdelight:bone_broth" }
+		{ count: 16, item: "farmersdelight:beef_stew" }
+		{ count: 16, item: "farmersdelight:chicken_soup" }
+		{ count: 16, item: "farmersdelight:vegetable_soup" }
+		{ count: 16, item: "farmersdelight:fish_stew" }
+		{ count: 16, item: "farmersdelight:fried_rice" }
+		{ count: 16, item: "farmersdelight:pumpkin_soup" }
+		{ count: 16, item: "farmersdelight:baked_cod_stew" }
+		{ count: 16, item: "farmersdelight:noodle_soup" }
+		{ count: 16, item: "farmersdelight:bacon_and_eggs" }
+		{ count: 16, item: "farmersdelight:pasta_with_meatballs" }
+		{ count: 16, item: "farmersdelight:pasta_with_mutton_chop" }
+		{ count: 16, item: "farmersdelight:mushroom_rice" }
+		{ count: 16, item: "farmersdelight:roasted_mutton_chops" }
+		{ count: 16, item: "farmersdelight:vegetable_noodles" }
+		{ count: 16, item: "farmersdelight:steak_and_potatoes" }
+		{ count: 16, item: "farmersdelight:squid_ink_pasta" }
+		{ count: 16, item: "farmersdelight:grilled_salmon" }
+		{ count: 16, item: "farmersdelight:roast_chicken" }
+		{ count: 16, item: "farmersdelight:stuffed_pumpkin" }
+		{ count: 16, item: "farmersdelight:honey_glazed_ham" }
+		{ count: 16, item: "farmersdelight:shepherds_pie" }
+	]
+	title: "{loot_table.1}"
+}
